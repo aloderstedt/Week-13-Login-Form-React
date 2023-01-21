@@ -13,6 +13,14 @@ div {
   text-align: center;
 }
 
+.navButt {
+margin-right: 3rem;
+margin-left: 3rem;
+border-style: inset;
+border-color: darkgray;
+border-radius: 15%;
+}
+
 input {
   border: .25rem;
   border-color: black;
@@ -22,7 +30,7 @@ input {
   background-color: thistle;
 }
 
-button {
+#logButt {
   background-color: cornflowerblue;
   width: 10rem;
   border-radius: 1rem;
